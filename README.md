@@ -51,6 +51,11 @@ This project demonstrates core OOP concepts:
 
 ---
 
+## UML
+
+- [Download UML Diagram as PDF](uml/University%20UML.pdf)
+- ![UML Diagram Preview](uml/University%20UML.png)
+
 ## Project Structure
 
 ```plaintext
@@ -65,4 +70,8 @@ teachers/
 └── PartTimeTeacher.java → Part-time teacher with hourly-based salary  
 
 uml/
-└── uml-diagram.png → Class diagram of the system  
+└── uml-diagram.png → Class diagram of the system
+
+
+
+
