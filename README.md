@@ -1,4 +1,4 @@
-# 🎓 University Management System
+#  University Management System
 
 This is a Java console-based application developed as the final project for the Basic Java module. It simulates a university environment where students, teachers, and classes can be managed through an interactive menu.
 
@@ -6,7 +6,7 @@ The system is built with object-oriented programming principles and provides a c
 
 ---
 
-## 📌 Features
+##  Features
 
 The program includes the following functionality:
 
@@ -39,7 +39,7 @@ Lists available university classes and lets the user view class details, includi
 
 ---
 
-## 🧠 Object-Oriented Design
+## Object-Oriented Design
 
 This project demonstrates core OOP concepts:
 
@@ -51,7 +51,7 @@ This project demonstrates core OOP concepts:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 Main.java → Contains the main program and console interaction  
