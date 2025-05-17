@@ -53,6 +53,7 @@ This project demonstrates core OOP concepts:
 
 ## UML
 
+- [View UML Diagram in lucid.app](https://lucid.app/lucidchart/25762541-09c2-4693-b913-43dd0e53c446/edit?viewport_loc=-246%2C-8%2C2863%2C1382%2CHWEp-vi-RSFO&invitationId=inv_8e9a1da9-6c61-41d7-8193-3b9fe78c5e3a)
 - [Download UML Diagram as PDF](uml/University%20UML.pdf)
 - ![UML Diagram Preview](uml/University%20UML.png)
 
