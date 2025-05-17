@@ -1,17 +1,16 @@
+package com.globant.university.teachers;
+
 public abstract class Teacher {
     protected String name;
     protected double baseSalary;
-    protected SalaryCalculator salaryCalculator;
+    protected Double salary;
 
-    public Teacher(String name, double baseSalary, SalaryCalculator salaryCalculator) {
+    public Teacher(String name, double baseSalary) {
         this.name = name;
         this.baseSalary = baseSalary;
-        this.salaryCalculator = salaryCalculator;
     }
 
-    public double getSalary() {
-        return salaryCalculator.calculateSalary(this);
-    }
+    abstract public double getSalary();
 
     public double getBaseSalary() {
         return baseSalary;
